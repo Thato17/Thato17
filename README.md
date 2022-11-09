@@ -6,6 +6,7 @@
 - 💡 I’m looking to collaborate on any project that will help me gain experience and skills.
 - 📫 My LinkedIn profile:
    https://www.linkedin.com/in/thato-langa-984810155/
+- 💻 My portfolio site: https://thatolanga-projects.carrd.co/
 
 <!---
 Thato17/Thato17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
